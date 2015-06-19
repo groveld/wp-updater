@@ -1,4 +1,4 @@
-## Automatic Updater for Self-Hosted WordPress Themes/Plugins
+# Automatic Updater for Self-Hosted WordPress Themes/Plugins
 
 For themes and plugins that can't be submitted to official WordPress repository, ie ... commercial themes/plugins/, non-gpl licensed, written for one client.
 
